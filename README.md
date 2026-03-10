@@ -56,7 +56,7 @@ Characteristics:
 
 After adjusting mapping parameters, the map becomes more stable and accurate.
 
-![After Tuning](tuned_front_laser.png)
+![After Tuning](Tuned_front_laser.png)
 
 Improvements observed:
 
