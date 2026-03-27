@@ -145,7 +145,7 @@ This ensures the map updates after shorter robot movement, improving accuracy.
 - ROS (Robot Operating System)
 - GMapping package
 - RViz (visualization)
-- C++
+- python
 - ROS bag processing
 
 ---
